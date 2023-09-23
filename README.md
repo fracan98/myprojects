@@ -12,8 +12,11 @@ This repository showcases a collection of projects completed during my academic 
 
 2. **A Deep Dive into Fetal Health Data: Patterns and Predictive Modeling**
    - Description: This notebook presents the development of a classification model using machine learning techniques to classify fetal health into three classes: Normal, Suspect and Pathological.
-   - Technologies and Tools: The programming language used is Python. 
-
+   - Technologies and Tools: The programming language used is Python.
+  
+3. **Evaluating Global Food Waste: Identifying Culprits, Champions, and Wasted Food Types**
+ - Description: Food waste is a serious issue that characterizes more developed countries. From the data available, 1/3 of food is annually thrown away and wasted, while a significant portion of the global population still suffers from hunger.
+   - Technologies and Tools: The programming language used is SQL.
 
 ## Getting Started
 
