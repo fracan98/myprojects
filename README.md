@@ -15,7 +15,7 @@ This repository showcases a collection of projects completed during my academic 
    - Technologies and Tools: The programming language used is Python.
   
 3. **Evaluating Global Food Waste: Identifying Culprits, Champions, and Wasted Food Types**
- - Description: Food waste is a serious issue that characterizes more developed countries. From the data available, 1/3 of food is annually thrown away and wasted, while a significant portion of the global population still suffers from hunger.
+   - Description: Food waste is a serious issue that characterizes more developed countries. From the data available, 1/3 of food is annually thrown away and wasted, while a significant portion of the global population still suffers from hunger.
    - Technologies and Tools: The programming language used is SQL.
 
 ## Getting Started
